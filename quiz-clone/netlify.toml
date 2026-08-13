@@ -1,0 +1,62 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/quiz"
+  to = "/quiz.html"
+  status = 200
+
+[[redirects]]
+  from = "/dados"
+  to = "/dados.html"
+  status = 200
+
+[[redirects]]
+  from = "/endereco"
+  to = "/endereco.html"
+  status = 200
+
+[[redirects]]
+  from = "/processando"
+  to = "/processando.html"
+  status = 200
+
+[[redirects]]
+  from = "/sucesso"
+  to = "/sucesso.html"
+  status = 200
+
+[[redirects]]
+  from = "/checkout"
+  to = "/checkout.html"
+  status = 200
+
+[[redirects]]
+  from = "/orderbump"
+  to = "/orderbump.html"
+  status = 200
+
+[[redirects]]
+  from = "/pix-loading"
+  to = "/pix-loading.html"
+  status = 200
+
+[[redirects]]
+  from = "/pix"
+  to = "/pix.html"
+  status = 200
+
+[[redirects]]
+  from = "/upsell"
+  to = "/upsell.html"
+  status = 200
+
+[[redirects]]
+  from = "/upsell-correios"
+  to = "/upsell-correios.html"
+  status = 200
+
+[[redirects]]
+  from = "/upsell-iof"
+  to = "/upsell-iof.html"
+  status = 200
