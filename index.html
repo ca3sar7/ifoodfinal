@@ -49,7 +49,7 @@
             </div>
 
             <div class="action-stack">
-                <button id="btn-start" class="btn-primary" type="button">Quero participar</button>
+                <button id="btn-start" class="btn-primary" type="button" onclick="if(typeof resetFlow==='function')resetFlow();if(typeof setStage==='function')setStage('quiz');if(typeof redirect==='function')redirect('quiz.html');else window.location.href='quiz.html';">Quero participar</button>
             </div>
 
             <div class="trust-strip trust-strip--cards">
